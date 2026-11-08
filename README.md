@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" alt="SpotTransfer logo: canal lock gates seen from above, weathered wooden gates with iron straps meeting at the centre, teal water in the chamber below" width="200"></p>
+
 ![Banner](banner.png)
 
 # SpotTransfer
